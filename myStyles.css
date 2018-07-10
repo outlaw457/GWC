@@ -1,0 +1,47 @@
+h1{
+  color: #803300;
+  font-size: 40px;
+  font-family: 'Cinzel', serif;
+}
+h3{
+  color: #803300;
+  font-size: 20px;
+  font-family: 'Cinzel', serif;
+}
+
+h5{
+  color: #803300;
+  font-size: 14px;
+  font-family: 'Cinzel', serif;
+}
+/* 'Gloria Hallelujah', cursive */
+#Fun{
+  color: #803300;
+}
+/*split screen*/
+/* .split {
+  height: 100%;
+  width: 49%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+} */
+
+/* Control the left side */
+/*.left {
+  left: 0;
+  background-color: white;
+}
+
+/* Control the right side */
+/* .right {
+  right: 0;
+  background-color: white;
+}
+*/
+div.static {
+    position: static;
+    border: 3px solid #803300;
+}
